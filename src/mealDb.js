@@ -1,8 +1,5 @@
 import sendComment from './comments.js';
-<<<<<<< HEAD
 import { Displaylikes, like } from './likeSection.js';
-=======
->>>>>>> cf590695f506f9cfc26d98d2dadf8e9a2bd2e8c7
 
 const popup = async () => {
   const header = document.querySelector('header');
@@ -42,11 +39,7 @@ const popup = async () => {
         </div>
         <div class="comments-container">
           <div class="all-comments text-center">
-<<<<<<< HEAD
             <h3>Comments <span id= "comments-count">0</span> </h3>
-=======
-            <h3>Comments <span id= "comments-count">0</span></h3>
->>>>>>> cf590695f506f9cfc26d98d2dadf8e9a2bd2e8c7
             <ul id="comments-ul" class = "d-flex justify-center flex-col">
 
             </ul>
@@ -55,11 +48,7 @@ const popup = async () => {
             <h3> Add a comment </h3> 
           </div>
       
-<<<<<<< HEAD
      <div class="add-comments text-center d-flex justify-center">
-=======
-    <div class="add-comments text-center d-flex justify-center">
->>>>>>> cf590695f506f9cfc26d98d2dadf8e9a2bd2e8c7
       <form action="POST">
           <input name= "name" type="text" id="input-name" placeholder="Your name" required>
           <textarea name="comment" id="comment" cols="30" rows="10" required></textarea>
@@ -116,10 +105,7 @@ const popup = async () => {
   }
 };
 
-<<<<<<< HEAD
 // Displaying meal
-=======
->>>>>>> cf590695f506f9cfc26d98d2dadf8e9a2bd2e8c7
 const fetchMeal = async () => {
   const meallist = document.querySelector('.meal-list');
   const getCategoryUrl = async (category) => {
@@ -182,13 +168,8 @@ const fetchMeal = async () => {
       getCategoryUrl(category);
       printCount(category);
       resetLinks();
-<<<<<<< HEAD
       setTimeout(() => like(), 2000);
       Displaylikes();
-=======
-      // setTimeout(() => like(), 2000);
-      // Displaylikes();
->>>>>>> cf590695f506f9cfc26d98d2dadf8e9a2bd2e8c7
       navlinks[i].classList.add('active');
     });
   }

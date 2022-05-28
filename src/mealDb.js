@@ -1,4 +1,3 @@
-
 // Displaying meal
 const fetchMeal = async () => {
   const meallist = document.querySelector('.meal-list');
@@ -33,7 +32,6 @@ const fetchMeal = async () => {
     printMeals(meals);
   };
 
-  
   const navlinks = document.querySelectorAll('nav li');
   const resetLinks = () => {
     for (let i = 0; i < navlinks.length; i += 1) {

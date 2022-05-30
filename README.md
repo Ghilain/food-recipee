@@ -2,7 +2,7 @@
 
 > This is a Capstone project being built in the second module of curriculum at microverse. it's an application that uses the MealDB API to display meals and instructions on how to make the meals. The project also utilizes the Involvement API to update and display comments and likes for the meals
 
-### Click [here](https://ghilain.github.io/food-recipe/) to see deployed live version
+### Click [here](https://ghilain.github.io/food-recipee/) to see deployed live version
 
 ### Features implemented so far are:
 

@@ -10,12 +10,12 @@
 }
 
 body {
-  background-color: bisque;
+  background-color: rgb(235, 235, 235);
   font-family: 'Mono', sans-serif;
 }
 
 header {
-  background-color: grey;
+  background-color: rgb(46, 68, 78);
   justify-content: space-between;
   align-items: center;
   font-weight: bolder;
@@ -23,12 +23,14 @@ header {
 
 .heading {
   font-family: cursive;
-  color: chartreuse;
+  color: rgb(138, 201, 226);
   font-weight: bolder;
 }
 
 .logo {
   align-items: center;
+  width: 50px;
+  margin-left: 13px;
   justify-content: center;
 }
 
@@ -90,7 +92,7 @@ header h2 {
 
 .footer {
   height: 50px;
-  background-color: #6d8347;
+  background-color: rgb(46, 68, 78);
 }
 
 .meals-section {
@@ -143,28 +145,28 @@ img {
 }
 
 .active {
-  border-bottom: 1px solid #6d8347;
+  border-bottom: 1px solid rgb(46, 68, 78);
 }
 
 .comments {
   padding: 0.7rem;
-  background-color: #6d8347;
+  background-color: rgb(46, 68, 78);
   color: #fff;
   font-size: 1rem;
   width: 100%;
   cursor: pointer;
-  border: #6d8347 1px solid;
+  border: rgb(46, 68, 78) 1px solid;
 }
 
 #comment {
   font-family: 'Poppins', sans-serif;
-  border: 1px solid #6d8347;
+  border: 1px solid rgb(46, 68, 78);
   padding: 0.5rem 1rem;
 }
 
 .comments:hover {
   background-color: #eaeaea;
-  color: #6d8347;
+  color: rgb(46, 68, 78);
   transition: all ease 0.3s;
 }
 
@@ -237,8 +239,8 @@ form {
 }
 
 .submit-comment {
-  border: 1px solid #6d8347;
-  background-color: #6d8347;
+  border: 1px solid rgb(46, 68, 78);
+  background-color: rgb(46, 68, 78);
   color: #fff;
   padding: 0.5rem 2rem;
 }
@@ -246,7 +248,7 @@ form {
 .submit-comment,
 #input-name,
 #comment {
-  border: 1px solid #6d8347;
+  border: 1px solid rgb(46, 68, 78);
   padding: 0.7rem 1rem;
   margin-bottom: 1rem;
 }
@@ -254,7 +256,7 @@ form {
 input:focus,
 textarea:focus {
   outline: none !important;
-  box-shadow: 0 0 10px #6d8347;
+  box-shadow: 0 0 10px rgb(46, 68, 78);
 }
 
 .hidden {
@@ -273,7 +275,7 @@ textarea:focus {
   .modal {
     width: 85vw;
     min-height: 100vh;
-    border: #6d8347 2px solid;
+    border: rgb(46, 68, 78) 2px solid;
     padding: 1rem;
   }
 

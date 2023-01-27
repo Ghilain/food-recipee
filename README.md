@@ -8,6 +8,12 @@
 
 - Responsive HTML page
 
+### Video link:
+
+[Video link](https://drive.google.com/file/d/1hYH475TLN8UTGZH2Lzavoxx7saMtCG6J/view?usp=sharing)
+
+
+
 ## Built With
 
 - Lighthouse (An open-source, automated tool for improving the quality of web pages. It has audits for performance, accessibility, progressive web apps, SEO and more).

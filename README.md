@@ -2,7 +2,7 @@
 
 > This is a Capstone project being built in the second module of curriculum at microverse. it's an application that uses the MealDB API to display meals and instructions on how to make the meals. The project also utilizes the Involvement API to update and display comments and likes for the meals
 
-### Click [here](https://ghilain.github.io/food-recipee/dist/index.html) to see deployed live version
+### Click [here](https://ghilain.github.io/food-recipee/dist/) to see deployed live version
 
 ### Features implemented so far are:
 
@@ -91,9 +91,6 @@ npx hint .
 ```
 npm run build 
 ```
-```
-npm start
-```
 ##### Tests
 
 ```
@@ -111,5 +108,3 @@ All source code files are licensed under the permissive zlib license
 - GitHub: [Ghilain Ishimwe](https://github.com/Ghilain)
 - Twitter: [@GhilainIshimwe](https://twitter.com/GhilainIshimwe)
 - LinkedIn: [Ghilain Ishimwe](https://www.linkedin.com/in/ghilain-ishimwe-067a5b1b4/)
-
-

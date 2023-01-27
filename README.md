@@ -85,9 +85,6 @@ npx hint .
 ```
 npm run build 
 ```
-```
-npm start
-```
 ##### Tests
 
 ```
@@ -105,10 +102,3 @@ All source code files are licensed under the permissive zlib license
 - GitHub: [Ghilain Ishimwe](https://github.com/Ghilain)
 - Twitter: [@GhilainIshimwe](https://twitter.com/GhilainIshimwe)
 - LinkedIn: [Ghilain Ishimwe](https://www.linkedin.com/in/ghilain-ishimwe-067a5b1b4/)
-
-👤 **Ghilain Ishimwe**
-
-- GitHub: [Ghilain Ishimwe](https://github.com/Ghilain)
-- Twitter: [@GhilainIshimwe](https://twitter.com/GhilainIshimwe)
-- LinkedIn: [Ghilain Ishimwe](https://www.linkedin.com/in/ghilain-ishimwe-067a5b1b4/)
-
